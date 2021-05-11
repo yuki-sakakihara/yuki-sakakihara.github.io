@@ -1,13 +1,24 @@
 ## Welcome
 
 I am Yuki Sakakihara, a researcher in School of Physics and Astronomy, Sun Yat-sen University.
+
 I belong to Prof. Xian Gao's group.
 
 You can use the [editor on GitHub](https://github.com/yuki-sakakihara/yuki-sakakihara.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Xian Gao's group invited seminar
+
+2021-05-11 Talk by Dr. Takashi Hiramatsu (Rikkyo University, Japan) on "Field-theoretic simulations of topological defects in cosmology"
+
+2021-05-25 Talk by Dr. Ryo Namba (RIKEN, Japan) on "Partial UV completion of k-essence and its UV consistency"
+
+### Recent events
+
+Joined a Workshop in Chongqing in April 2021
+
+The followings are just notes for me.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
