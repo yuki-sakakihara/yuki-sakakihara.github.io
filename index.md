@@ -4,7 +4,7 @@ I am Yuki Sakakihara, a researcher in School of Physics and Astronomy, Sun Yat-s
 
 I belong to Prof. Xian Gao's group.
 
-### [Xian Gao's group invited seminar]()
+### [Xian Gao's group invited seminar](https://yuki-sakakihara.github.io/invited_seminars)
 
 2021-05-11 Talk by Dr. Takashi Hiramatsu (Rikkyo University, Japan) on "Field-theoretic simulations of topological defects in cosmology"
 
