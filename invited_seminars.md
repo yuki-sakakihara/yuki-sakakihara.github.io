@@ -1,6 +1,6 @@
 # Xian Gao's Group Invited Seminars 
 
-## School of Physics and Astronomy, Sun Yat-sen University, Zhuhai, Guangdong, China
+### School of Physics and Astronomy, Sun Yat-sen University, Zhuhai, Guangdong, China
 
 ### Ryo Namba (RIKEN, Japan) 
   - Date: 2021-05-25 
