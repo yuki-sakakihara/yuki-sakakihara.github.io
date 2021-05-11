@@ -4,13 +4,13 @@ I am Yuki Sakakihara, a researcher in School of Physics and Astronomy, Sun Yat-s
 
 I belong to Prof. Xian Gao's group.
 
-### Xian Gao's group invited seminar
-
-2021-05-11 Talk by Dr. Takashi Hiramatsu (Rikkyo University, Japan) on ["Field-theoretic simulations of topological defects in cosmology"](https://yuki-sakakihara.github.io/invited_seminars)
+## Xian Gao's group invited seminar
 
 2021-05-25 Talk by Dr. Ryo Namba (RIKEN, Japan) on ["Partial UV completion of k-essence and its UV consistency"](https://yuki-sakakihara.github.io/invited_seminars)
 
-### Recent events
+2021-05-11 Talk by Dr. Takashi Hiramatsu (Rikkyo University, Japan) on ["Field-theoretic simulations of topological defects in cosmology"](https://yuki-sakakihara.github.io/invited_seminars)
+
+## Recent events
 
 Joined a Workshop in Chongqing in April 2021
 
@@ -20,26 +20,12 @@ You can use the [editor on GitHub](https://github.com/yuki-sakakihara/yuki-sakak
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+```**Bold** and _Italic_ and `Code` text
 
-# Header 1
-## Header 2
-### Header 3
+```[Link](url) and ![Image](src)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
