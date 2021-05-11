@@ -4,7 +4,7 @@ I am Yuki Sakakihara, a researcher in School of Physics and Astronomy, Sun Yat-s
 
 I belong to Prof. Xian Gao's group.
 
-### Xian Gao's group invited seminar
+### [Xian Gao's group invited seminar]()
 
 2021-05-11 Talk by Dr. Takashi Hiramatsu (Rikkyo University, Japan) on "Field-theoretic simulations of topological defects in cosmology"
 
@@ -42,10 +42,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuki-sakakihara/yuki-sakakihara.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
