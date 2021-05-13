@@ -4,7 +4,7 @@ I am Yuki Sakakihara, a researcher in School of Physics and Astronomy, Sun Yat-s
 
 I belong to Prof. Xian Gao's group.
 
-## Xian Gao's group invited seminar
+## Xian Gao's group invited seminars
 
 2021-05-25 Talk by Dr. Ryo Namba (RIKEN, Japan) on ["Partial UV completion of k-essence and its UV consistency"](https://yuki-sakakihara.github.io/invited_seminars)
 
@@ -14,6 +14,12 @@ I belong to Prof. Xian Gao's group.
 
 Joined a Workshop in Chongqing in April 2021
 
+## Links
+
+Workshop on General Relativity and Gravitation in Japan (JGRG) is one of the largest international workshops related to cosmology in Japan, 
+which is followed by online seminar series
+[JGRG Webinar Series](https://sites.google.com/view/online-jgrg/webinar-series) because of the current situtaion all over the world.
+See [JGRG2019](http://www.research.kobe-u.ac.jp/fsci-pacos/jgrg29/test.html) for the info about the latest on-site workshop. 
 
 <!--The followings are just notes for me.
 You can use the [editor on GitHub](https://github.com/yuki-sakakihara/yuki-sakakihara.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
