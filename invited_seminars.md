@@ -2,6 +2,8 @@
 
 ### School of Physics and Astronomy, Sun Yat-sen University, Zhuhai, Guangdong, China
 
+Pdf files are available only for group members. If you would like to access to a file, I will ask the speaker for the permission.
+
 ### Ryo Namba (RIKEN, Japan) 
   - Date: 2021-05-25 
   - Title: **Partial UV completion of k-essence and its UV consistency** [[pdf]](https://drive.google.com/drive/folders/1b-CG3Lw4wlg-c3g_juiOKCJILupN-3lR?usp=sharing)
@@ -12,4 +14,4 @@
   - Title: **Field-theoretic simulations of topological defects in cosmology** [[pdf]](https://drive.google.com/drive/folders/1b-CG3Lw4wlg-c3g_juiOKCJILupN-3lR?usp=sharing)
   - Abstract: The topological defects associated with the spontaneous symmetry breaking play a crucial role to prove the extremely early Universe as well as to provide a clue to high-energy physics such as the grand unified theories. We briefly review the basic properties of the topological defects and their role in the cosmological context, and introduce our past studies on them employing numerical simulations based on the classical field theory in 3D computational box.
 
-Pdf files are available only for group members. If you would like to access to a file, I will ask the speaker for the permission.
+
