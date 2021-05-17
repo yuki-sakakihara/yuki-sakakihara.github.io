@@ -1,8 +1,10 @@
 ## Welcome
 
-I am Yuki Sakakihara, a researcher in School of Physics and Astronomy, Sun Yat-sen University.
+I am Yuki Sakakihara, a researcher in School of Physics and Astronomy, Sun Yat-sen University. 
 
 I belong to Prof. Xian Gao's group.
+
+Here are [CV](https://yuki-sakakihara.github.io/cv) and a list of [Papers](https://yuki-sakakihara.github.io/papers).
 
 ## Xian Gao's group invited seminars
 
