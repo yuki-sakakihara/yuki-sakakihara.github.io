@@ -2,7 +2,7 @@
 
 ### School of Physics and Astronomy, Sun Yat-sen University, Zhuhai, Guangdong, China
 
-Pdf files are available only for group members. If you would like to access to a file, I will ask the speaker for the permission.
+Pdf files are available only for group members. If you would like to access a file, I will ask the speaker for the permission.
 
 ### Ryo Namba (RIKEN, Japan) 
   - Date: 2021-05-25 
