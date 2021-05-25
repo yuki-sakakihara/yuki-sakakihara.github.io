@@ -8,7 +8,7 @@ Here are [CV](https://yuki-sakakihara.github.io/cv) and a list of [Papers](https
 
 ## Xian Gao's group invited seminars
 
-2021-05-25 Talk by Dr. Ryo Namba (RIKEN, Japan) on ["Partial UV completion of k-essence and its UV consistency"](https://yuki-sakakihara.github.io/invited_seminars)
+2021-05-25 Talk by Dr. Ryo Namba (RIKEN, Japan) on ["Partial UV completion of effective single-scalar field theory"](https://yuki-sakakihara.github.io/invited_seminars)
 
 2021-05-11 Talk by Dr. Takashi Hiramatsu (Rikkyo University, Japan) on ["Field-theoretic simulations of topological defects in cosmology"](https://yuki-sakakihara.github.io/invited_seminars)
 
