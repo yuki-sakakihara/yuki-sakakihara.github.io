@@ -21,10 +21,12 @@
 - 2016/05/01-2017/03/31　Visiting Researcher, Research Center for the Early Universe, The University of Tokyo
 
 ### Grants
-- Representative, Young Scientists Fund, National Natural Science Foundation of China, Grant No.12005309, Thema: Avoidance of the initial singularity of the universe by limiting anisotropy scenario, Year: 2021–2023, 240 thousand Yuan (~ approx. 4 million Japanese Yen)
-- Representative, Young Teachers Training Program of Sun Yat-sen University, Sun Yat-sen University, Grant No.20lgpy168, Thema: Boson-fermion derivative interactions and the application to reheating, Year: 2020–2022 150 thousand Yuan (~ approx 2.5 million Japanese Yen)
+- Representative, Young Scientists Fund, National Natural Science Foundation of China, Grant No. 12005309, Thema: Avoidance of the initial singularity of the universe by limiting anisotropy scenario, Year: 2021–2023, 240 thousand Yuan (~ approx. 4 million Japanese Yen)
+- Representative, Young Teachers Training Program of Sun Yat-sen University, Sun Yat-sen University, Grant No. 20lgpy168, Thema: Boson-fermion derivative interactions and the application to reheating, Year: 2020–2022 150 thousand Yuan (~ approx 2.5 million Japanese Yen)
 - Representative, JSPS (DC2), Grant No. 26・1236, Year: 2014-2015, 1.9 million Japanese Yen
 
 
 ### Teaching Experience
 
+- Lecture of basic physics, Kindai University, Sept. 2017 - Sept. 2018
+- Applied experiments, Doshisha University, Sept. 2017 - Mar. 2018
