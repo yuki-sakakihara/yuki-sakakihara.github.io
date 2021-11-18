@@ -2,7 +2,10 @@
 
 Link for [INSPIRE HEP](http://inspirehep.net/search?p=exactauthor%3AY.Sakakihara.1+)
 
-1. Yuki Sakakihara, Daisuke Yoshida, Kazufumi Takahashi, Jerome Quintin, ``Limiting extrinsic curvature theory and stable non-singular anisotropic universe'', 
+1. David I. Dunsky, Anish Ghoshal, Hitoshi Murayama, Yuki Sakakihara, Graham White, ``Gravitational Wave Gastronomy,''
+   arXiv: 2111.08750 [hep-ph]
+
+1. Yuki Sakakihara, Daisuke Yoshida, Kazufumi Takahashi, Jerome Quintin, ``Limiting extrinsic curvature theory and stable non-singular anisotropic universe,'' 
    Phys. Rev. D 102, (2020) 084004, arXiv: 2005.10844 [gr-qc]
 
 1. Asuka Ito, Yuki Sakakihara, Jiro Soda, ``Accelerating Universe with a stable extra dimension in cuscuton gravity,''
