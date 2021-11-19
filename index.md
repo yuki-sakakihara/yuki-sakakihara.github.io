@@ -6,13 +6,13 @@ I belong to Prof. Xian Gao's group.
 
 Here are [CV](https://yuki-sakakihara.github.io/cv) and a list of [Papers](https://yuki-sakakihara.github.io/papers).
 
-## Xian Gao's group invited seminars
+## Xian Gao's group [invited seminars](https://yuki-sakakihara.github.io/invited_seminars)
 
-2022-xx-xx Talk by Dr. Kenichi Saikawa (Kanazawa University, Japan) on [TBA](https://yuki-sakakihara.github.io/invited_seminars)
+2022-xx-xx Talk by Dr. Kenichi Saikawa (Kanazawa University, Japan) on TBA
 
-2021-05-25 Talk by Dr. Ryo Namba (RIKEN, Japan) on ["Partial UV completion of effective single-scalar field theory"](https://yuki-sakakihara.github.io/invited_seminars)
+2021-05-25 Talk by Dr. Ryo Namba (RIKEN, Japan) on "Partial UV completion of effective single-scalar field theory"
 
-2021-05-11 Talk by Dr. Takashi Hiramatsu (Rikkyo University, Japan) on ["Field-theoretic simulations of topological defects in cosmology"](https://yuki-sakakihara.github.io/invited_seminars)
+2021-05-11 Talk by Dr. Takashi Hiramatsu (Rikkyo University, Japan) on "Field-theoretic simulations of topological defects in cosmology"
 
 ## Recent events
 
