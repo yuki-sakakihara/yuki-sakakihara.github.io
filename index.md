@@ -1,4 +1,9 @@
 
+---
+layout: default
+title: Yuki Sakakihara
+description: test
+---
 
 ## Welcome
 
