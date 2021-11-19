@@ -4,6 +4,11 @@
 
 Pdf files are available only for group members. If you would like to access a file, I will ask the speaker for the permission.
 
+### Kenichi Saikawa (Kanazawa University, Japan) 
+  - Date: 2022-xx-xx
+  - Title: **TBA** [[pdf]](https://drive.google.com/drive/folders/1b-CG3Lw4wlg-c3g_juiOKCJILupN-3lR?usp=sharing)
+  - Abstract: TBA
+
 ### Ryo Namba (RIKEN, Japan) 
   - Date: 2021-05-25 
   - Title: **Partial UV completion of effective single-scalar field theory** [[pdf]](https://drive.google.com/drive/folders/1b-CG3Lw4wlg-c3g_juiOKCJILupN-3lR?usp=sharing)
