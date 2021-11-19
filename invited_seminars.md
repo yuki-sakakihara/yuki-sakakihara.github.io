@@ -2,7 +2,7 @@
 
 ### School of Physics and Astronomy, Sun Yat-sen University, Zhuhai, Guangdong, China
 
-Pdf files are available only for group members. If you would like to access a file, I will ask the speaker for the permission.
+Pdf files are available only for group members. If you would like to access a file, please contact us.
 
 ### Kenichi Saikawa (Kanazawa University, Japan) 
   - Date: 2022-xx-xx
