@@ -7,7 +7,7 @@
 Pdf files are available only for group members. If you would like to access a file, please contact us.
 
 ### Kenichi Saikawa (Kanazawa University, Japan) 
-  - Date: 2022-xx-xx
+  - Date: 2022-01-17
   - Title: **TBA**
   - Abstract: TBA
 
