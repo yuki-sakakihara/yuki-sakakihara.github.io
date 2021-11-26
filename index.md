@@ -19,7 +19,7 @@ Here are [CV](https://yuki-sakakihara.github.io/cv) and a list of [Papers](https
 
 ## Recent events
 
-Visit (might be online) IPMU on 18th March 2022
+Visit IPMU (might be online) on 18th March 2022
 
 Joined a Workshop in Chongqing in April 2021
 
