@@ -22,7 +22,8 @@ Here are [CV](https://yuki-sakakihara.github.io/cv) and a list of [Papers](https
 Visit IPMU (might be online) on 18th March 2022
 
 Joined a Workshop in Chongqing in April 2021,
- "Search for non-singular anisotropic spacetime," 2021 CQU & USTC Junior Cosmology Symposium
+ "Search for non-singular anisotropic spacetime," 2021 CQU & USTC Junior Cosmology Symposium,
+ Chongqing University, Chongqing, China
 
 
 ## Links
