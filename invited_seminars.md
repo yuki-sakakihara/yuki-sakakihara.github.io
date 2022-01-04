@@ -8,8 +8,8 @@ Pdf files are available only for group members. If you would like to access a fi
 
 ### Kenichi Saikawa (Kanazawa University, Japan) 
   - Date: 2022-01-17
-  - Title: **TBA**
-  - Abstract: TBA
+  - Title: **Axions and topological defects**
+  - Abstract: Axions are well-motivated hypothetical particles associated with two fundamental questions in particle physics and cosmology: the strong CP problem and dark matter puzzle. In this talk, we review cosmological aspects of the axions, particularly focusing on the role of topological defects, which are expected to be formed in the early universe for typical axion models. After introducing the basic concepts about axions and their properties, we discuss the formation and evolution of topological defects (strings and domain walls) predicted in the axion models. The later part of the talk is devoted to a review of recent progresses on their observational consequences, in particular on the gravitational wave signatures.
 
 ### Ryo Namba (RIKEN, Japan) 
   - Date: 2021-05-25 
