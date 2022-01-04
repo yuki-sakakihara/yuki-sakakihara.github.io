@@ -11,7 +11,7 @@ Here are [CV](https://yuki-sakakihara.github.io/cv) and a list of [Papers](https
 
 ## Xian Gao's group [invited seminars](https://yuki-sakakihara.github.io/invited_seminars)
 
-2022-01-17 Talk by Dr. Kenichi Saikawa (Kanazawa University, Japan) on TBA
+2022-01-17 Talk by Dr. Kenichi Saikawa (Kanazawa University, Japan) on "Axions and topological defects"
 
 2021-05-25 Talk by Dr. Ryo Namba (RIKEN, Japan) on "Partial UV completion of effective single-scalar field theory"
 
