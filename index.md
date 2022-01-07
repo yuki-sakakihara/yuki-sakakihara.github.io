@@ -19,7 +19,7 @@ Here are [CV](https://yuki-sakakihara.github.io/cv) and a list of [Papers](https
 
 ## Recent events
 
-Visit IPMU (might be online) on 18th March 2022
+Visit IPMU (online) in March 2022
 
 Joined a Workshop in Chongqing in April 2021,
  "Search for non-singular anisotropic spacetime," 2021 CQU & USTC Junior Cosmology Symposium,
